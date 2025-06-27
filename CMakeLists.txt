@@ -98,6 +98,7 @@ if(TEST_SOURCES)
     target_include_directories(stock-ticker-tests PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include ${CMAKE_CURRENT_SOURCE_DIR}/tests)
     target_link_libraries(stock-ticker-tests PRIVATE stock-ticker-lib GTest::gtest GTest::gmock GTest::gtest_main Qt6::Core Qt6::Widgets Qt6::Network Qt6::Test spdlog::spdlog fmt::fmt)
     add_test(NAME stock-ticker-tests COMMAND stock-ticker-tests)
+    set_tests_properties(stock-ticker-tests PROPERTIES ENVIRONMENT "STOCK_TICKER_WATCHLIST_PATH=${CMAKE_SOURCE_DIR}/data/watchlist.json")
 endif()
 
 enable_testing()

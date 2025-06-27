@@ -3,12 +3,28 @@
 #include <QFile>
 #include <QJsonDocument>
 #include <QJsonArray>
+#include <cstdlib>
 
 Watchlist loadWatchlist(const QString& filename) {
     Watchlist watchlist;
-    
     QFile file(filename);
     if (!file.open(QIODevice::ReadOnly)) {
+        // Try environment variable if file not found
+        const char* envPath = std::getenv("STOCK_TICKER_WATCHLIST_PATH");
+        if (envPath) {
+            QFile envFile(QString::fromLocal8Bit(envPath));
+            if (envFile.open(QIODevice::ReadOnly)) {
+                QByteArray data = envFile.readAll();
+                QJsonDocument doc = QJsonDocument::fromJson(data);
+                if (doc.isArray()) {
+                    QJsonArray array = doc.array();
+                    for (const auto& item : array) {
+                        watchlist.push_back(item.toString().toStdString());
+                    }
+                }
+                return watchlist;
+            }
+        }
         qWarning("Couldn't open watchlist file.");
         return watchlist;
     }
