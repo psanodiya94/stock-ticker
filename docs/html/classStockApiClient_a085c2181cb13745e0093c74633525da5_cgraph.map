@@ -1,0 +1,12 @@
+<map id="StockApiClient::StockApiClient" name="StockApiClient::StockApiClient">
+<area shape="rect" id="Node000001" title="Constructs a StockApiClient object." alt="" coords="5,23,188,63"/>
+<area shape="rect" id="Node000002" href="$classStockApiClient.html#ad061a2dddc46f713188e88821ad9ce46" title="Handles finished network replies." alt="" coords="236,31,468,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,41,222,41,222,46,188,46"/>
+<area shape="rect" id="Node000003" href="$classStockApiClient.html#a1bb8d65ebc8a631ebe31a2eaa56436b7" title="Emitted when an error occurs." alt="" coords="788,5,1003,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,35,774,21,774,26,469,41"/>
+<area shape="rect" id="Node000004" href="$classStockApiClient.html#a8c35123974147833687d19ece6bbfccd" title="Parses the API response and emits stockDataUpdated." alt="" coords="516,56,740,81"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="468,51,503,54,502,60,468,57"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="695,53,813,31,814,36,696,59"/>
+<area shape="rect" id="Node000005" href="$classStockApiClient.html#af55dfedcd61c6a9bc3c96954ccac9f05" title="Emitted when stock data is updated." alt="" coords="800,55,991,95"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="740,69,786,70,786,75,740,74"/>
+</map>

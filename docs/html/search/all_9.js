@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['setwatchlist_0',['setwatchlist',['../classStockApiClient.html#a5e40d9b53ef8cb6e5b50407886d4d542',1,'StockApiClient::setWatchlist()'],['../classStockTickerWidget.html#ad2bb634aabc0d240899712dfdd37a7e2',1,'StockTickerWidget::setWatchlist()']]],
+  ['startupdates_1',['startUpdates',['../classStockApiClient.html#a337569a3ea114ecd3e7d85f8fb27156b',1,'StockApiClient']]],
+  ['stockapiclient_2',['stockapiclient',['../classStockApiClient.html#a085c2181cb13745e0093c74633525da5',1,'StockApiClient::StockApiClient()'],['../classStockApiClient.html',1,'StockApiClient']]],
+  ['stockapiclient_2ecpp_3',['StockApiClient.cpp',['../StockApiClient_8cpp.html',1,'']]],
+  ['stockapiclient_2eh_4',['StockApiClient.h',['../StockApiClient_8h.html',1,'']]],
+  ['stockasciichart_5',['StockAsciiChart',['../classStockAsciiChart.html',1,'']]],
+  ['stockasciichart_2ecpp_6',['StockAsciiChart.cpp',['../StockAsciiChart_8cpp.html',1,'']]],
+  ['stockasciichart_2eh_7',['StockAsciiChart.h',['../StockAsciiChart_8h.html',1,'']]],
+  ['stockdata_8',['StockData',['../structStockData.html',1,'']]],
+  ['stockdata_2eh_9',['StockData.h',['../StockData_8h.html',1,'']]],
+  ['stockdataupdated_10',['stockDataUpdated',['../classStockApiClient.html#af55dfedcd61c6a9bc3c96954ccac9f05',1,'StockApiClient']]],
+  ['stocktickermain_2ecpp_11',['StockTickerMain.cpp',['../StockTickerMain_8cpp.html',1,'']]],
+  ['stocktickerwidget_12',['stocktickerwidget',['../classStockTickerWidget.html',1,'StockTickerWidget'],['../classStockTickerWidget.html#ae4c3fa437fcfb3e166f8d904faea38eb',1,'StockTickerWidget::StockTickerWidget()']]],
+  ['stocktickerwidget_2ecpp_13',['StockTickerWidget.cpp',['../StockTickerWidget_8cpp.html',1,'']]],
+  ['stocktickerwidget_2eh_14',['StockTickerWidget.h',['../StockTickerWidget_8h.html',1,'']]],
+  ['stopupdates_15',['stopUpdates',['../classStockApiClient.html#a5f9e15bbe77be90ef7ab765cf403ca97',1,'StockApiClient']]],
+  ['symbol_16',['symbol',['../structStockData.html#a51e6ab3104df349bd4de8f56b79c3456',1,'StockData']]]
+];

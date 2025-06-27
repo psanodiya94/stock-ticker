@@ -1,0 +1,17 @@
+<map id="StockTickerWidget::StockTickerWidget" name="StockTickerWidget::StockTickerWidget">
+<area shape="rect" id="Node000001" title="Constructs a StockTickerWidget." alt="" coords="5,87,156,127"/>
+<area shape="rect" id="Node000002" href="$classStockApiClient.html#a1bb8d65ebc8a631ebe31a2eaa56436b7" title="Emitted when an error occurs." alt="" coords="204,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,85,156,62,203,41,231,32,233,37,205,46,158,67,116,89"/>
+<area shape="rect" id="Node000003" href="$classStockTickerWidget.html#ae2f554eeaae623b5b3f8361be74e406a" title="Handles errors from the API client." alt="" coords="236,55,387,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,94,222,85,223,90,156,100"/>
+<area shape="rect" id="Node000004" href="$classStockApiClient.html#af55dfedcd61c6a9bc3c96954ccac9f05" title="Emitted when stock data is updated." alt="" coords="216,119,407,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,115,203,122,202,127,156,120"/>
+<area shape="rect" id="Node000005" href="$classStockTickerWidget.html#abfaffa9c4b9277d4c8f07d724b9fe2e9" title="Updates the display when new stock data arrives." alt="" coords="236,183,387,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="117,125,205,169,225,176,223,181,203,174,115,130"/>
+<area shape="rect" id="Node000006" href="$classStockTickerWidget.html#aa78b27a0e16a9e4ce6c78f108f259c3e" title="Updates the display widget." alt="" coords="467,183,617,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="387,201,453,201,453,206,387,206"/>
+<area shape="rect" id="Node000007" href="$classStockTickerWidget.html#af115895984286666665caa755890d8bf" title="Formats stock info for display." alt="" coords="665,183,816,223"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="617,201,652,201,652,206,617,206"/>
+<area shape="rect" id="Node000008" href="$classStockAsciiChart.html#afc73ada7dcc78c3d40bdb4bcca0c5c43" title="Renders a price history as an ASCII chart." alt="" coords="864,191,1039,216"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="817,201,851,201,851,206,817,206"/>
+</map>

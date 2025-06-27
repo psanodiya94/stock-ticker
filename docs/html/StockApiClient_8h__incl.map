@@ -1,0 +1,17 @@
+<map id="/media/psanodiya/workspace/cpp/stock&#45;ticker/include/StockApiClient.h" name="/media/psanodiya/workspace/cpp/stock&#45;ticker/include/StockApiClient.h">
+<area shape="rect" id="Node000001" title="Provides the StockApiClient class for fetching and updating stock data from an API." alt="" coords="205,5,417,60"/>
+<area shape="rect" id="Node000002" href="$StockData_8h.html" title="Defines the StockData structure for holding stock information." alt="" coords="27,115,128,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,63,119,113,117,108,244,58"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="152,115,227,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="278,62,217,109,214,105,275,58"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="251,115,370,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="313,60,313,101,308,101,308,60"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="394,115,593,141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="363,58,460,107,458,112,361,62"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="617,108,823,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="418,56,625,102,623,108,417,61"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,196,64,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,142,50,185,45,183,69,140"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="89,196,151,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="86,140,110,183,105,185,81,142"/>
+</map>

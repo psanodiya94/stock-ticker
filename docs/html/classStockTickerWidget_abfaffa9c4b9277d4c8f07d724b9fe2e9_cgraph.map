@@ -1,0 +1,9 @@
+<map id="StockTickerWidget::updateStockData" name="StockTickerWidget::updateStockData">
+<area shape="rect" id="Node000001" title="Updates the display when new stock data arrives." alt="" coords="5,5,156,45"/>
+<area shape="rect" id="Node000002" href="$classStockTickerWidget.html#aa78b27a0e16a9e4ce6c78f108f259c3e" title="Updates the display widget." alt="" coords="204,5,355,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,23,190,23,190,28,156,28"/>
+<area shape="rect" id="Node000003" href="$classStockTickerWidget.html#af115895984286666665caa755890d8bf" title="Formats stock info for display." alt="" coords="403,5,553,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,23,389,23,389,28,355,28"/>
+<area shape="rect" id="Node000004" href="$classStockAsciiChart.html#afc73ada7dcc78c3d40bdb4bcca0c5c43" title="Renders a price history as an ASCII chart." alt="" coords="601,13,776,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="554,23,588,23,588,28,554,28"/>
+</map>

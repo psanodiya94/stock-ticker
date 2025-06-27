@@ -1,0 +1,29 @@
+<map id="/media/psanodiya/workspace/cpp/stock&#45;ticker/src/StockApiClient.cpp" name="/media/psanodiya/workspace/cpp/stock&#45;ticker/src/StockApiClient.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="523,5,802,45"/>
+<area shape="rect" id="Node000002" href="$StockApiClient_8h.html" title="Provides the StockApiClient class for fetching and updating stock data from an API." alt="" coords="246,93,375,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,48,376,93,375,88,578,43"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="399,93,526,119"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="616,48,506,91,504,86,614,43"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="551,93,652,119"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="650,47,621,84,617,81,646,44"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="677,93,771,119"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="680,44,709,81,704,84,675,47"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="796,93,887,119"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="707,43,804,85,802,90,704,48"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="911,93,996,119"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="733,43,898,87,897,92,732,48"/>
+<area shape="rect" id="Node000003" href="$StockData_8h.html" title="Defines the StockData structure for holding stock information." alt="" coords="27,174,128,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,121,125,172,123,167,276,116"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="152,174,227,199"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="294,121,220,169,217,164,291,117"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="251,174,370,199"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="313,119,313,160,308,160,308,119"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="394,174,593,199"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="338,116,455,166,453,171,336,121"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="617,167,823,207"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="371,116,609,162,608,167,370,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,255,64,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="73,201,50,244,45,241,69,198"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="89,255,151,280"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="86,198,110,241,105,244,81,201"/>
+</map>

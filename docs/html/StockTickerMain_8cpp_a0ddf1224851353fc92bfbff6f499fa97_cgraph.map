@@ -1,0 +1,15 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,60,60"/>
+<area shape="rect" id="Node000002" href="$StockTickerMain_8cpp.html#a80d7dacd9448e02d038466de85dab0b2" title=" " alt="" coords="128,5,239,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,40,114,29,115,34,61,45"/>
+<area shape="rect" id="Node000003" href="$classStockTickerWidget.html#ad2bb634aabc0d240899712dfdd37a7e2" title="Sets the watchlist of stock symbols." alt="" coords="108,55,259,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="61,50,95,56,94,61,60,55"/>
+<area shape="rect" id="Node000004" href="$classStockApiClient.html#a5e40d9b53ef8cb6e5b50407886d4d542" title="Sets the watchlist of stock symbols." alt="" coords="309,37,514,63"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="259,64,295,60,295,66,259,70"/>
+<area shape="rect" id="Node000005" href="$classStockApiClient.html#a337569a3ea114ecd3e7d85f8fb27156b" title="Starts periodic updates for the watchlist." alt="" coords="307,87,516,112"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="259,81,293,84,293,90,259,86"/>
+<area shape="rect" id="Node000006" href="$classStockApiClient.html#a759cdfdf681e0b810a854108a2e86885" title="Handles update timer timeouts." alt="" coords="564,87,759,112"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="516,97,550,97,550,102,516,102"/>
+<area shape="rect" id="Node000007" href="$classStockApiClient.html#a8ff1b581f61f3e379bac39319a0cf9a6" title="Fetches stock data for a given symbol." alt="" coords="807,87,1032,112"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="759,97,793,97,793,102,759,102"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="StockTickerWidget::setWatchlist" name="StockTickerWidget::setWatchlist">
+<area shape="rect" id="Node000001" title="Sets the watchlist of stock symbols." alt="" coords="5,23,156,63"/>
+<area shape="rect" id="Node000002" href="$classStockApiClient.html#a5e40d9b53ef8cb6e5b50407886d4d542" title="Sets the watchlist of stock symbols." alt="" coords="206,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,32,192,28,193,34,157,38"/>
+<area shape="rect" id="Node000003" href="$classStockApiClient.html#a337569a3ea114ecd3e7d85f8fb27156b" title="Starts periodic updates for the watchlist." alt="" coords="204,55,413,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,49,190,52,190,58,156,54"/>
+<area shape="rect" id="Node000004" href="$classStockApiClient.html#a759cdfdf681e0b810a854108a2e86885" title="Handles update timer timeouts." alt="" coords="461,55,656,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,65,447,65,447,70,413,70"/>
+<area shape="rect" id="Node000005" href="$classStockApiClient.html#a8ff1b581f61f3e379bac39319a0cf9a6" title="Fetches stock data for a given symbol." alt="" coords="704,55,929,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="656,65,690,65,690,70,656,70"/>
+</map>

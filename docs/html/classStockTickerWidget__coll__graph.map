@@ -1,0 +1,9 @@
+<map id="StockTickerWidget" name="StockTickerWidget">
+<area shape="rect" id="Node000001" title="Main widget for displaying stock data and charts." alt="" coords="5,168,148,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,80,95,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,118,76,167,71,168,59,119"/>
+<area shape="rect" id="Node000003" href="$classStockApiClient.html" title="Handles fetching stock data and periodic updates from a remote API." alt="" coords="119,80,237,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,116,92,169,89,165,152,112"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="141,5,215,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,45,181,80,175,80,175,45"/>
+</map>
